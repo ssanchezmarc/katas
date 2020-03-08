@@ -1,0 +1,3 @@
+[submodule "spotahome-code-kata"]
+	path = spotahome-code-kata
+	url = git@github.com:ssanchezmarc/spotahome-code-kata.git
