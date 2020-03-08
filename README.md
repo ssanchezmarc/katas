@@ -1,5 +1,5 @@
 # katas 🐼 
-As a way of promiting deliverate practice, here I have my collection of katas completed or in progress.
+As a way of promiting deliberate practice, here I have my collection of katas completed or in progress.
 
 ## Struture
 
